@@ -1,17 +1,21 @@
 # Database & Information Management System
 
-## Course Project: Database Systems
+## Description
+This repository contains the database design, schema implementation, and optimized SQL queries developed as part of the Database Systems course project at Taibah University.
 
-### 📋 Project Overview
-This project focuses on designing and implementing a robust relational database system. The core objective was to apply theoretical database concepts into a practical application, ensuring data integrity, efficient retrieval, and optimal structure.
+## Features
+- Full 3NF (Third Normal Form) database normalization.
+- Optimized stored procedures and complex joins for fast data retrieval.
+- Comprehensive system analysis and UML modeling.
 
-### 🛠️ Key Contributions & Features
-* **Relational Database Design:** Developed a structured database using **MySQL** from scratch.
-* **ERD Modeling:** Created comprehensive Entity-Relationship Diagrams (ERD) to map out data relationships and business logic accurately.
-* **Database Normalization:** Applied strict normalization principles up to **Third Normal Form (3NF)** to eliminate data redundancy and prevent anomalies.
-* **Advanced SQL Queries:** Wrote and optimized complex SQL queries for efficient data management, manipulation, and high-speed retrieval.
+## How to Run & Import the Database
 
-### 💻 Tech Stack
-* **Database:** MySQL
-* **Tools:** Workbench / ERD Modeling Tools
-* **Concepts:** 3NF, ERD, Relational Algebra, SQL Scripting
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+Make sure you have a MySQL Server installed (e.g., MySQL Workbench, XAMPP, or phpMyAdmin).
+
+### Installation & Setup
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/suzan-shaikh/database-management-system.git](https://github.com/suzan-shaikh/database-management-system.git)
