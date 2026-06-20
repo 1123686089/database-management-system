@@ -8,6 +8,13 @@ This repository contains the database design, schema implementation, and optimiz
 - Optimized stored procedures and complex joins for fast data retrieval.
 - Comprehensive system analysis and UML modeling.
 
+## Project Structure
+```text
+├── Database_Schema/      # Contains ERD and UML diagrams
+├── SQL_Queries/          # Optimized stored procedures and joins
+└── README.md
+```
+
 ## How to Run & Import the Database
 
 To get a local copy up and running, follow these simple steps:
@@ -18,4 +25,5 @@ Make sure you have a MySQL Server installed (e.g., MySQL Workbench, XAMPP, or ph
 ### Installation & Setup
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/suzan-shaikh/database-management-system.git (https://github.com/suzan-shaikh/database-management-system.git)
+git clone https://github.com/suzan-shaikh/database-management-system.git 
+```
