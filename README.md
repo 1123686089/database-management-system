@@ -18,4 +18,4 @@ Make sure you have a MySQL Server installed (e.g., MySQL Workbench, XAMPP, or ph
 ### Installation & Setup
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/suzan-shaikh/database-management-system.git](https://github.com/suzan-shaikh/database-management-system.git)
+git clone https://github.com/suzan-shaikh/database-management-system.git (https://github.com/suzan-shaikh/database-management-system.git)
